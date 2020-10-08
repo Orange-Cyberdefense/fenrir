@@ -89,7 +89,6 @@ If you have found a bug, report it to me ! I'll look at it as quickly as i can.
 
 + I suck at naming stuff & especially function names
 + The code is always a work-in-progress, there are bugs and weird stuffs ! Feel free to throw bug tickets & pull requests
-+ Java sucks
 
 
 # Current and planned features
@@ -107,7 +106,6 @@ If you have found a bug, report it to me ! I'll look at it as quickly as i can.
 | Better stats                     | TODO           | |
 | Bug smashing                     | Doing          | Bugs, bugs everywhere |
 | Code cleaning                    | Doing          | It needs it badly ! |
-| Not developed in Java            | Done !!!       | *'Cause we all know Java sucks right ? :)* |
 
 
 # Protocol modules table
